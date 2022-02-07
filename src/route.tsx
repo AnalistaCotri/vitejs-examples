@@ -4,12 +4,8 @@ import {
   Switch,
   Route
 } from "react-router-dom";
-
-export function Routes{
-  return(
-    <Router> 
-      
-    </Router>
+*/
+export function Routes(){
+  return( <p> teste</p>
   )
 }
-*/
