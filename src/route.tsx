@@ -1,3 +1,4 @@
+/*
 import {
   BrowserRouter as Router,
   Switch,
@@ -11,3 +12,4 @@ export function Routes{
     </Router>
   )
 }
+*/
